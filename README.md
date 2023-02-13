@@ -1,7 +1,7 @@
 # Covid-19 exploration
 Covid-19 is one topic that is relevant to every person in the world, which has hugely impacted the world since 3 years ago, and the some of the countries is still feeling it effects till today.
 
-Dataset obtained from the website (https://ourworldindata.org/covid-deaths) and contained data from the date of 1-Jan-2020 up until 5-Nov-2022.
+Dataset obtained from the [website](https://ourworldindata.org/covid-deaths) and contained data from the date of 1-Jan-2020 up until 5-Nov-2022.
 
 The steps taken for this project were;
 1. Obtained the dataset, later separated it into 2 xlsx-type files.
