@@ -5,6 +5,15 @@ Dataset obtained from the [website](https://ourworldindata.org/covid-deaths) and
 
 The steps taken for this project were;
 1. Obtained the dataset, later separated it into 2 xlsx-type files.
-2. Created a database in MS SQL server.
+2. Created a database in MS SQL server (SSMS).
 3. Created two tables using the 2 xlsx files from before.
 4. Performed SQL queries for exploratory data analysis (EDA) purposes.
+  - Technique involved;
+    - Converting data type
+    - Aggregate functions
+    - Joins
+    - Window Functions
+    - Temp Tables
+    - Common Table Expression (CTE)
+    - Creating Views
+    
